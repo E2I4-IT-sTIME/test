@@ -11,6 +11,7 @@ public class TestApplication {
         System.out.println("하이");
         System.out.println("연지");
         System.out.println("gd");
+        System.out.println("master");
     }
 
 }
