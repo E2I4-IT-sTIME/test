@@ -9,7 +9,8 @@ public class TestApplication {
     public static void main(String[] args) {
         SpringApplication.run(TestApplication.class, args);
         System.out.println("하이");
-        System.out.println("mastermas");
+        System.out.println("연지");
+        System.out.println("gd");
     }
 
 }
