@@ -10,6 +10,7 @@ public class TestApplication {
         SpringApplication.run(TestApplication.class, args);
         System.out.println("하이");
         System.out.println("연지");
+        System.out.println("gd");
     }
 
 }
